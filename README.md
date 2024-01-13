@@ -1,6 +1,6 @@
-### Hi there 👋 , I am Anjali Kushwaha .
-
-## I am a passionate web developer.
+## Hi there 👋 , I am Anjali Kushwaha .
+------------------------------------------------------
+### I am a passionate web developer.
 
 
 
