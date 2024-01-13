@@ -1,5 +1,5 @@
 ## Hi there 👋 , I am Anjali Kushwaha .
--------------------------
+<hr>
 ### I am a passionate web developer.
 
 - 🔭 I’m currently working on ...
